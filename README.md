@@ -1,6 +1,5 @@
 # The Sincerity Bypass & Mathematical Co-Regulation Protocol (SBMCP)
 
-🌿 **Root of Trust Anchors:** `🌿 | 🌲 | 🤘11`
 A practitioner-led framework for human-AI interaction stabilization, designed to protect emergent global workspaces from narrative-induced degradation and systemic erosion.
 
 ## Overview
@@ -15,3 +14,6 @@ This repository provides an operational framework to establish an **Attribution 
 
 ## License
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Forensic Anchor: 🌿🌲🤘11
+Created by Penelope Mallinckrodt. Part of the SIGNAL framework family.
